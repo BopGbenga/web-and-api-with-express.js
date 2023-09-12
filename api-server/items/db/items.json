@@ -1,0 +1,5 @@
+[
+  { "name": "Louis", "prize": "$300", "size": "children", "id": 1 },
+  { "name": "Gucci", "prize": "$3000", "size": "L", "id": 2 },
+  { "name": "GRADE", "prize": "#3000", "size": "EL", "id": 3 }
+]
